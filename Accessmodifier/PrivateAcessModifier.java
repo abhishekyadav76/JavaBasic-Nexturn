@@ -11,8 +11,8 @@ class PrivateEx{
 
 public class PrivateAcessModifier{
     public static void main(String[] args) {
-        
-        System.out.println(secretcode);
+
+        // System.out.println(secretcode);
         PrivateEx obj = new PrivateEx();
         obj.showcode();
         
