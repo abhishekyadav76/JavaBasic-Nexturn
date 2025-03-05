@@ -1,4 +1,4 @@
-package ProblemDay4;
+package Day4.ProblemDay4;
 
 import java.util.Scanner;
 
